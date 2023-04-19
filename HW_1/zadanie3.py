@@ -19,8 +19,7 @@ y = int(input('введите число '))
 g = int(input('введите число ')) 
 e = int(input('введите число '))
 
-if a+b+v==y+g+e:
-
+if a + b + v == y + g + e:
     print('Счасливый билет')
 else:
     print('Не счасливый билет')
