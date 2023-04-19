@@ -11,5 +11,5 @@ n =n1 + n2 + n3
 print('Средняя сумма 123 -', n)
 
 nq = 1;nw = 0 ;ne = 0 ;
-na =nq + nw + ne
+na = nq + nw + ne
 print('Средняя сумма 100 -', na)
