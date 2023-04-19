@@ -12,12 +12,12 @@
 
 #a=
 
-a=int(input('введите число '))
-b=int(input('введите число '))
-v=int(input('введите число '))
-y=int(input('введите число '))
-g=int(input('введите число ')) 
-e=int(input('введите число '))
+a = int(input('введите число '))
+b = int(input('введите число '))
+v = int(input('введите число '))
+y = int(input('введите число '))
+g = int(input('введите число ')) 
+e = int(input('введите число '))
 
 if a+b+v==y+g+e:
 
