@@ -8,7 +8,7 @@
 
 peta = int(input('Введите какое количество сделал Петя: ')) 
 sergei = int(input('Введите какое количество сделал Сергей:  '))
-kata=(peta+sergei)*2
+kata=(peta + sergei) * 2
 print('У Кати получилось журавликов: ',kata)
 itog = kata + sergei + peta
 print('общая сумма журавликов вышла у ребят: ', itog)
