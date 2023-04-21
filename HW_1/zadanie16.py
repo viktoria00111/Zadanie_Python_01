@@ -9,3 +9,16 @@
  #   7 -2 3 5 1
   #  3
    # -> 1
+
+size = int(input("Введите количество жлементов массива N: "))
+some_list = list(range(1,size))
+print(some_list)
+
+numberX = int(input("Введите число X:"))
+sumX = 0
+
+for i in range(0, len(some_list)):
+    if numberX == some_list[i]:
+        sumX += 1
+
+print("Число X повторяется" , sumX, "раз(а)")
